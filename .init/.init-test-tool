@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/fittrack-daily-workout-app-31994-32003/workout_frontend"
+}
